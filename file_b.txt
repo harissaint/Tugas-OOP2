@@ -1,0 +1,3 @@
+this is content of file_b.txt
+you choose 2 option
+end sample
